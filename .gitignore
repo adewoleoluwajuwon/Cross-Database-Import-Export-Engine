@@ -1,0 +1,20 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Logs & caches
+*.log
+
+# Configs (use example files instead)
+appsettings.json
+appsettings.Development.json
+app.config
+web.config
+
+# DB files (if any)
+*.mdf
+*.sqlite
+*.db
